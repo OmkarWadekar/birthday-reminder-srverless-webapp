@@ -3,3 +3,7 @@ py -m venv venv
 
 start virtual environment 
 venv\Scripts\activate 
+
+
+python --version 
+3.10
